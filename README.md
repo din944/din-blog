@@ -1,7 +1,9 @@
 # din-blog
 Blog project built by using React JS 
 
--	Use command “npx create-react-app din-blog” in terminal to run create React app which ultimately will set up our React JS starter project.
+-	Run command “npx create-react-app din-blog” in terminal to run create React app which ultimately will set up and generate our React JS starter project.
+
+- Using "create-react-app" to automatically create starter React JS Project.
 
 - Building this Blog project covers CRD(Create, Read, Delete) Operations.
 
@@ -14,3 +16,5 @@ Blog project built by using React JS
 
 * And enter and run command "npx json-server --watch data/db.json --port 8000" in terminal to start the json server which acts as fake REST API for this Blog project.
 
+<hr />
+test
